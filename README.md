@@ -5,10 +5,9 @@
 <h1 align="center">Hi 👋, I'm Marwa Tabbabi</h1>
 <h3 align="center">A passionate QA Automation and Full Stack Developer from Tunisia</h3>
 
-- 👀 I’m interested in **QA automation** and **Full Stack Spring Boot Angular**
+- 👀 I’m interested in **QA automation** and **Full Stack full stack  Spring Boot Angular**
 - 🌱 I’m currently learning **Software Engineering**
 - 👯 I’m looking to collaborate on projects
-- 💬 Ask me about **#Spring-Boot**, **#Angular**, **#Linux**
 - 📫 You can reach me via **[tabbabimarwa.contact@gmail.com](mailto:tabbabimarwa.contact@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/marwa-tabbabi)**
 
 ---

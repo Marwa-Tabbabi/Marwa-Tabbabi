@@ -1,4 +1,3 @@
-<img align="center" src="https://github.com/Marwa-Tabbabi/Marwa-Tabbabi/assets/126770762/23cfbe66-9e13-4401-b9bf-9397321a22ed" alt="Marwa Tabbabi's Banner"/>
 
 <h1 align="center">Hi 👋, I'm Marwa Tabbabi</h1>
 <h3 align="center">A passionate QA Automation and Full Stack Developer from Tunisia</h3>
